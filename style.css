@@ -1,0 +1,34 @@
+body{
+   font-family: Montserrat;
+   margin: 0;
+}
+h1{
+    font-size: 42px;
+    color: #575757;
+}
+.primary-color{
+    color: orange;
+}
+p{
+    color: #828282;
+}
+.flaxiable-continer{
+    display: flex;
+}
+.helf-width{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.helf-width-imag{
+    padding: 5%;
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 700;
+    border-radius: 10px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+}
