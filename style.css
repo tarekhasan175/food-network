@@ -117,3 +117,12 @@ p{
     padding: 4%;
     text-align: center;
 }
+.footer-text{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
