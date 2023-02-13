@@ -52,3 +52,44 @@ p{
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
 }
+.recipie-tag{
+    padding-top: 5%;
+}
+.bottom-headline{
+    text-align: center;
+}
+.bottom-text{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.section-items{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.third-one{
+    margin-right: 50px;
+    display: block;
+    padding: 2%;
+    width: 30%;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.63);
+}
+.third-one-helf{
+    height: 50%;
+}
+.third-one-helf-img{
+    width: 50%;
+    height: 50%;
+}
+.third-one-last{
+    padding: 2%;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.63);
+    display: block;
+    width: 30%;
+}
