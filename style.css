@@ -1,31 +1,38 @@
-body{
-   font-family: Montserrat;
-   margin: 0;
+body {
+    font-family: Montserrat;
+    margin: 0;
 }
-h1{
+
+h1 {
     font-size: 42px;
     color: #575757;
 }
-.primary-color{
+
+.primary-color {
     color: orange;
 }
-p{
+
+p {
     color: #828282;
     text-align: justify;
 }
-.flaxiable-continer{
+
+.flaxiable-continer {
     display: flex;
 }
-.helf-width{
+
+.helf-width {
     width: 50%;
     padding-top: 10%;
     padding-left: 5%;
 }
-.helf-width-img{
+
+.helf-width-img {
     padding-top: 5%;
     padding-right: 5%;
 }
-.link-button{
+
+.link-button {
     text-decoration: none;
     color: whitesmoke;
     font-weight: 700;
@@ -33,43 +40,53 @@ p{
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
 }
-.top-section{
+
+.top-section {
     background-image: url(images/shapes/Frame\ 57-01.png);
     background-repeat: no-repeat;
-    width: 100%;
+    background-size: 100% 100%;
 }
-.helf-width-img-person{
+
+.helf-width-img-person {
     padding-left: 15%;
     padding-top: 5%;
 }
-.helf-width-mid{
+
+.helf-width-mid {
     padding-top: 15%;
     padding-left: 10%;
     padding-right: 5%;
     padding-bottom: 5%;
 }
-.middle-section{
+
+.middle-section {
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
-.recipie-tag{
+
+.recipie-tag {
     padding-top: 5%;
 }
-.bottom-headline{
+
+.bottom-headline {
     text-align: center;
 }
-.bottom-text{
+
+.bottom-text {
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
 }
-.section-items{
+
+.section-items {
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 2%;
 }
-.third-one{
+
+.third-one {
     margin-right: 50px;
     display: block;
     padding: 2%;
@@ -78,14 +95,17 @@ p{
     border-radius: 20px;
     box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.63);
 }
-.third-one-helf{
+
+.third-one-helf {
     height: 50%;
 }
-.third-one-helf-img{
+
+.third-one-helf-img {
     width: 50%;
     height: 50%;
 }
-.third-one-last{
+
+.third-one-last {
     padding: 2%;
     border-radius: 20px;
     background-color: antiquewhite;
@@ -93,7 +113,8 @@ p{
     display: block;
     width: 30%;
 }
-.social-link{
+
+.social-link {
     margin-top: 5%;
     margin-left: 15%;
     margin-right: 15%;
@@ -105,22 +126,27 @@ p{
     box-shadow: 5px 5px 10px gray;
     background-color: rgba(200, 255, 237, 0.856);
 }
-.youtube{
+
+.youtube {
     padding: 4%;
     text-align: center;
 }
-.instagram{
+
+.instagram {
     padding: 4%;
     text-align: center;
 }
-.dribbble{
+
+.dribbble {
     padding: 4%;
     text-align: center;
 }
-.footer-text{
+
+.footer-text {
     text-align: center;
 }
-footer{
+
+footer {
     text-align: center;
     background-color: #0B0D17;
     padding-top: 2.5%;
