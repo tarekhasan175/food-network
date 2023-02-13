@@ -93,3 +93,27 @@ p{
     display: block;
     width: 30%;
 }
+.social-link{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: rgba(200, 255, 237, 0.856);
+}
+.youtube{
+    padding: 4%;
+    text-align: center;
+}
+.instagram{
+    padding: 4%;
+    text-align: center;
+}
+.dribbble{
+    padding: 4%;
+    text-align: center;
+}
