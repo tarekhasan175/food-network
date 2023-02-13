@@ -11,24 +11,44 @@ h1{
 }
 p{
     color: #828282;
+    text-align: justify;
 }
 .flaxiable-continer{
     display: flex;
 }
 .helf-width{
     width: 50%;
-    padding-top: 5%;
-    padding-left: 10%;
+    padding-top: 10%;
+    padding-left: 5%;
 }
-.helf-width-imag{
-    padding: 5%;
-    width: 100%;
+.helf-width-img{
+    padding-top: 5%;
+    padding-right: 5%;
 }
 .link-button{
     text-decoration: none;
     color: whitesmoke;
     font-weight: 700;
-    border-radius: 10px;
+    border-radius: 30px;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
+}
+.top-section{
+    background-image: url(images/shapes/Frame\ 57-01.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.helf-width-img-person{
+    padding-left: 15%;
+    padding-top: 5%;
+}
+.helf-width-mid{
+    padding-top: 15%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+.middle-section{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
 }
